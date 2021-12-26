@@ -130,6 +130,14 @@
                                     "layout": null
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp01t19vg80",
+                                    "created": 1640498121632,
+                                    "text": "Armbar (下位十字固)"
+                                },
+                                "children": []
                             }
                         ]
                     }
@@ -150,7 +158,32 @@
                             "text": "Escapes (下位)",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp1tlrco1k0",
+                                    "created": 1640503121101,
+                                    "text": "Shrimping (蝦行)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp1toh9bbk0",
+                                    "created": 1640503127021,
+                                    "text": "Bridge (起橋)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp1trr05k00",
+                                    "created": 1640503134141,
+                                    "text": "Butterfly Sweep (蝴蝶掃)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -220,7 +253,24 @@
                             "text": "Escapes (下位)",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp1tlrco1k0",
+                                    "created": 1640503121101,
+                                    "text": "Shrimping (蝦行)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp1toh9bbk0",
+                                    "created": 1640503127021,
+                                    "text": "Bridge (起橋)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -298,7 +348,24 @@
                             "text": "Escapes (下位)",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp1tlrco1k0",
+                                    "created": 1640503121101,
+                                    "text": "Shrimping (蝦行)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp1toh9bbk0",
+                                    "created": 1640503127021,
+                                    "text": "Bridge (起橋)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -375,6 +442,15 @@
                                     "text": "Gogoplata (脛骨絞)"
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgov7q2xhlc0",
+                                    "created": 1640484479838,
+                                    "text": "Guillotine (斷頭台)",
+                                    "layout": null
+                                },
+                                "children": []
                             }
                         ]
                     },
@@ -382,7 +458,7 @@
                         "data": {
                             "id": "cgov0xuqb540",
                             "created": 1640483948207,
-                            "text": "Pass Guard (上位)",
+                            "text": "`",
                             "expandState": "expand",
                             "layout": null
                         },
@@ -405,7 +481,16 @@
                             "text": "Escapes",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp1tlrco1k0",
+                                    "created": 1640503121101,
+                                    "text": "Shrimping (蝦行)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -444,7 +529,16 @@
                             "created": 1640498335714,
                             "text": "Escapes (下位)"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp0vf3jrw80",
+                                    "created": 1640500442220,
+                                    "text": "Sit Out(四方盤旋)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -512,7 +606,16 @@
                             "created": 1640498335714,
                             "text": "Escapes (下位)"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp1tlrco1k0",
+                                    "created": 1640503121101,
+                                    "text": "Shrimping (蝦行)"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
