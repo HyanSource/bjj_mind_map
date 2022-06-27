@@ -463,6 +463,23 @@
                             "layout": null
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgp0dx4xlr40",
+                            "created": 1640499070931,
+                            "text": "Attacks (進攻)"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cgp0jwjc2ps0",
+                                    "created": 1640499539811,
+                                    "text": "Flower Sweep (花掃)"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -511,6 +528,14 @@
                                     }
                                 },
                                 "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cgp01t19vg80",
+                                    "created": 1640498121632,
+                                    "text": "Armbar (上位十字固)"
+                                },
+                                "children": []
                             }
                         ]
                     }
@@ -534,7 +559,7 @@
                                 "data": {
                                     "id": "cgp0vf3jrw80",
                                     "created": 1640500442220,
-                                    "text": "Sit Out(四方盤旋)"
+                                    "text": "Sit Out (四方盤旋)"
                                 },
                                 "children": []
                             }
